@@ -47,7 +47,7 @@
             // 
             // RemoveAll
             // 
-            RemoveAll.Location = new Point(39, 389);
+            RemoveAll.Location = new Point(39, 380);
             RemoveAll.Name = "RemoveAll";
             RemoveAll.Size = new Size(135, 23);
             RemoveAll.TabIndex = 0;
@@ -57,7 +57,7 @@
             // 
             // ApplyChanges
             // 
-            ApplyChanges.Location = new Point(203, 389);
+            ApplyChanges.Location = new Point(203, 380);
             ApplyChanges.Name = "ApplyChanges";
             ApplyChanges.Size = new Size(135, 23);
             ApplyChanges.TabIndex = 1;
@@ -103,7 +103,7 @@
             // 
             // Model
             // 
-            Model.Location = new Point(39, 170);
+            Model.Location = new Point(39, 165);
             Model.Name = "Model";
             Model.Size = new Size(299, 23);
             Model.TabIndex = 6;
@@ -112,7 +112,7 @@
             // 
             // Manufacturer
             // 
-            Manufacturer.Location = new Point(39, 211);
+            Manufacturer.Location = new Point(39, 206);
             Manufacturer.Name = "Manufacturer";
             Manufacturer.Size = new Size(299, 23);
             Manufacturer.TabIndex = 7;
@@ -121,7 +121,7 @@
             // 
             // SupportPhone
             // 
-            SupportPhone.Location = new Point(39, 253);
+            SupportPhone.Location = new Point(39, 248);
             SupportPhone.Name = "SupportPhone";
             SupportPhone.Size = new Size(299, 23);
             SupportPhone.TabIndex = 8;
@@ -130,7 +130,7 @@
             // 
             // SupportURL
             // 
-            SupportURL.Location = new Point(39, 295);
+            SupportURL.Location = new Point(39, 290);
             SupportURL.Name = "SupportURL";
             SupportURL.Size = new Size(299, 23);
             SupportURL.TabIndex = 9;
@@ -139,7 +139,7 @@
             // 
             // OpenAboutSettings
             // 
-            OpenAboutSettings.Location = new Point(39, 418);
+            OpenAboutSettings.Location = new Point(39, 409);
             OpenAboutSettings.Name = "OpenAboutSettings";
             OpenAboutSettings.Size = new Size(135, 23);
             OpenAboutSettings.TabIndex = 10;
@@ -158,7 +158,7 @@
             // 
             // Organization
             // 
-            Organization.Location = new Point(39, 336);
+            Organization.Location = new Point(39, 331);
             Organization.Name = "Organization";
             Organization.Size = new Size(299, 23);
             Organization.TabIndex = 9;
@@ -167,7 +167,7 @@
             // 
             // Winver
             // 
-            Winver.Location = new Point(203, 418);
+            Winver.Location = new Point(203, 409);
             Winver.Name = "Winver";
             Winver.Size = new Size(135, 23);
             Winver.TabIndex = 11;

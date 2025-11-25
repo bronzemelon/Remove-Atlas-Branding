@@ -56,6 +56,8 @@ namespace Remove_Atlas_Branding
 
             if (RegisteredOrganizationKey.GetValue("RegisteredOrganization") != null) RegisteredOrganizationKey.SetValue("RegisteredOrganization", "");
 
+            Process.Start(new ProcessStartInfo("bcdedit", "/set {current} description \"Windows 10\"") { UseShellExecute = true });
+
             MessageBox.Show("Removed all branding", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
         private void ApplyChanges_Click(object sender, EventArgs e)
